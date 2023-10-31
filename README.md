@@ -1,4 +1,5 @@
 ```
+1)
 Google Maps Add API (POST):
 Add new place into Server
 
@@ -81,4 +82,8 @@ Sample Response
 {
     “status”: ”OK”
 }
+```
+```
+2) URL: https://petstore.swagger.io/#/
+```
 ```
